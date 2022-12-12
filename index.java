@@ -52,5 +52,9 @@ public class index extends Parent {
 
     public static void main(String[] args) {
         // Parent p = new Parent("Roxyzc");
+        int x = 8;
+        x--;
+        x--;
+        System.out.println(x);
     }
 }
